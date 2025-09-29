@@ -1,1 +1,2 @@
-# New-kevi
+# kevi
+This is a simple currency converter.
